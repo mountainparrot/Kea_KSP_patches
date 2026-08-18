@@ -3,5 +3,3 @@ A set of collated and new configs and partswitches for various mods, mainly Tant
 Pretty much all of these haven't been tested with or made with standard gameplay progression in mind, maybe in future.
 
 Designed to be downloaded as a whole then unwanted patches removed, since some require the "Kea_configs" file path.
-
-Currently incompatible with Chemical Technologies.
