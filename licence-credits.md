@@ -5,7 +5,11 @@ Code credits:
  - Much of the base Tantares Waterfall configs and basis for this credits file are from SamsWaterfall by Sam25544
  - The "rowaterfall-hypergolic-udmh-pentaborane-lower-1" and "rowaterfall-glow-pentaborane" templates are from Realism Overhaul
  - VABOrganizer configs are derived from those for BluedogDB by Rodg88
+ - Textures for Tantares and TantaresLV are by Beale and CardZ
+ - Angara rescale patch inspired by AmateurAstronaut's rebalance patches for KODS
 
 Tantares, TantaresLV and TantaresSP are developed by Beale. 
 Waterfall and VABOrganizer are by Nertea.
+Eisenhower Astronautics is by EStreetRockets.
+KeR-7 is by NESD.
 All of the mods mentioned above are licenced CC-BY-NC-SA 4.0. 
