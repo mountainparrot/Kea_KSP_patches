@@ -24,7 +24,6 @@ _main folder with patches I don't think fit into any of the main categories._
   _fixes incorrectly configured FXModuleLookAtConstraint on the TantaresLV Proton RD-0210._
   
 - **B9**  
-_patches for B9PartSwitch._
   - **4MV_Engine_Variants**  
   _stats tweaks for the TantaresSP 4MV KTDU-425 engine and added KTDU-425A variant._
   - **B10_hybrid_female_nohatch**  
@@ -70,7 +69,6 @@ _additional parts added via patch._
   _adds the solid retro motor used on top of Voskhod, this already technically exists in Tantares but is incorrectly configured as a liquid engine._
   
 - **EngineIgnitor**  
-_patches for EngineIgnitor._
   - **EngineIgnitor_ECpatch**  
   _disables Electric Charge use on all engine ignitions._
   - **Eisenhower_EngineIgnitor**  
@@ -104,7 +102,6 @@ _real names and manufacturers for parts via patch à la Bluedog Design Bureau._
   _adds the real names and manufacturers of all TantaresSP parts._
   
 - **Recolours**  
-_recolours for various parts._
   - **Kosmos**  
   _adds full grey and white variants to the TantaresLV R-14/Kosmos-3M + white and orange varaints for the second stage and interstage._
   - **LK_v2**  
@@ -119,7 +116,6 @@ _recolours for various parts._
   _adds green and white/green variants to the Tantares Vostok capsule as seen on historical Vostok flights._
   
 - **Reconfigs**  
-_tweaks for a couple parts._
   - **KeR-7_RD-0109**  
   _completely reconfigures the KeR-7 RD-0109 to better reflect the irl version._
   - **TantaresLV_rebalance**  
@@ -149,7 +145,6 @@ _Textures Unlimited relections for the TantaresLV Soyuz RD-107 and RD-108._
 _full VABOrganizer support for Eisenhower Astronautics, Rocket Motor Menagerie, Tantares, TantaresLV and TantaresSP._
 
 - **WaterfallFX**  
-_patches for Waterfall._ 
   - **N1_Blok-A_Waterfall**  
   _adds Waterfall effects to the TantaresLV N1 first stage engine cluster. Kinda performance heavy._
   - **Tantares_Engines_Waterfall**  
