@@ -7,6 +7,8 @@ Pretty much all of these haven't been made with standard gameplay progression in
 Most patches have comments explaining what they do.  
 Most stats referenced from Realism Overhaul.
 
+***NO AI WAS USED IN THE CREATION OF THIS MOD: ALL MISTAKES ARE HUMAN MADE***
+
 ## What's added?
 - **Kea_Configs**  
 _main folder with patches I don't think fit into any of the main categories._
@@ -120,10 +122,10 @@ _recolours for various parts._
 _tweaks for a couple parts._
   - **KeR-7_RD-0109**  
   _completely reconfigures the KeR-7 RD-0109 to better reflect the irl version._
-  **TantaresLV_rebalance**  
+  - **TantaresLV_rebalance**  
   _stats tweaks for the TantaresLV R-12/Cosmos-2I RD-211 and Briz S5.98M._
   
-- **Rescales**
+- **Rescales**  
 _resizes a number of parts to get them closer to their IRL counterparts while (mostly) maintaining standard KSP diameters. It's a good idea to have procedural parts installed if using these for filling size gaps._
   - **Angara_rescale**  
   _rescales parts of the Eisenhower Astronautics Angara down to 2.25m from 2.5m + stats tweaks for the RD-0124._
@@ -140,11 +142,21 @@ _resizes a number of parts to get them closer to their IRL counterparts while (m
   - **Kosmos_rescale**  
   _rescales the TantaresLV R-14/Kosmos 3M up to 1.5m from 1.25m + stats and waterfall tweaks for all parts._ 
   
-- **TU**
+- **TU**  
 _Textures Unlimited relections for the TantaresLV Soyuz RD-107 and RD-108._
   
-- **VABO**
+- **VABO**  
 _full VABOrganizer support for Eisenhower Astronautics, Rocket Motor Menagerie, Tantares, TantaresLV and TantaresSP._
 
-
-(wip)
+- **WaterfallFX**  
+_patches for Waterfall._ 
+  - **N1_Blok-A_Waterfall**  
+  _adds Waterfall effects to the TantaresLV N1 first stage engine cluster. Kinda performance heavy._
+  - **Tantares_Engines_Waterfall**  
+  _adds Waterfall effects to all Tantares engines._
+  - **Tantares_RCS_Waterfall**  
+  _adds Waterfall effects to all Tantares RCS. Based on Sam25544's configs._
+  - **TantaresLV_Waterfall**  
+  _updates and adds to the pre-existing Waterfall configs for TantaresLV._
+  - **TantaresSP_Waterfall**  
+  _adds Waterfall effects to all TantaresSP engines and RCS._
