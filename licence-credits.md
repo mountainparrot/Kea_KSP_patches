@@ -12,5 +12,4 @@ Tantares, TantaresLV and TantaresSP are developed by Beale.
 Waterfall and VABOrganizer are by Nertea.
 Eisenhower Astronautics is by EStreetRockets.
 KeR-7 is by NESD.
-Benjee10_sharedAssets is by Benjee10.
 All of the mods mentioned above are licenced CC-BY-NC-SA 4.0. 
