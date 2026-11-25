@@ -49,7 +49,7 @@ _main folder with patches I don't think fit into any of the main categories._
   - **RD-253_Variants**  
   _stats tweaks for the TantaresLV Proton RD-253 and adds 7 historical variants._
   - **solarpanel_10L_lengthswitch**  
-  _adds a lenth switch to the ReStock SP-10L and OX-10L solar panels._
+  _adds a length switch to the ReStock SP-10L and OX-10L solar panels._
   - **Soyuz_radialdecoupler_lengthswitch**  
   _adds a switch to shorten the TantaresLV Soyuz booster decoupler._
   
